@@ -90,6 +90,10 @@ a.current:hover {
   font-weight: 400;
 }
 
+.nav-logo {
+  width:35%;
+}
+
 .nav-link:hover {
   color: #eeb50c !important;
   font-weight: bold;
