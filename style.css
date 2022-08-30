@@ -91,7 +91,7 @@ a.current:hover {
 }
 
 .nav-logo {
-  width:35%;
+  width:35% !important;
 }
 
 .nav-link:hover {
@@ -290,7 +290,6 @@ position: fixed;
 .homeImg {
   height: 60vh;
   margin: 2rem;
-  width:35% !important;
 }
 
 :root {
