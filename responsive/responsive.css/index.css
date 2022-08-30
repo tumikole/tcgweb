@@ -1018,11 +1018,21 @@
   .img-fluid {
     width: 20px;
   }
+
+  .nav-logo{
+    height:0 !important;
+    width: 35 !important;
+  }
 }
   @media (min-width: 1440px) and (max-width: 2559px){
     .columns {
       padding: 3em;
       text-align: center;
+    }
+
+    .nav-logo{
+      height:0 !important;
+      width: 35 !important;
     }
     
     .footerTextContainer {
