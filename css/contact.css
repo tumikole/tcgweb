@@ -39,6 +39,7 @@ a{
 
 .wrapper {
   background: #ccc !important;
+  height: 100% !important;
 
 }
 .form {
@@ -98,7 +99,7 @@ a{
 
 .contact {
   margin-bottom: 2rem;
-  display: flex;
+  display: grid;
   margin:auto;
   width: 80%;
 }
