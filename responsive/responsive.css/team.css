@@ -580,6 +580,10 @@
     color: white;
   }
 
+  .nav-logo{
+    width:35% !important;
+  }
+
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
@@ -730,6 +734,10 @@
 
   #sponsorLogo1 {
     margin-top: -12px;
+  }
+
+  .nav-logo{
+    width:35% !important;
   }
 }
 @media (min-width: 1024px) and (max-width: 1439px) {
